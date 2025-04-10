@@ -12,6 +12,6 @@ Skills:
 ##
 Contact:
 <div>
-  <a href = "mailto:vdenardigalvani9@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href = "mailto:renatagudiniz@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </div>
 
